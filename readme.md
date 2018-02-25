@@ -51,3 +51,14 @@
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
 - [Geeks chat](https://t.me/geeksChat) - General chat about all things tech.
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community.
+
+## Contributing
+See [contribution guidelines](contributing.md/#contribution-guidelines).
+
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz/) has waived all copyright and related or neighboring rights to this work.
