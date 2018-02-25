@@ -42,6 +42,8 @@
 
 ## News
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
+- [Чат канала Запуск завтра (Russian)](https://t.me/ctodailychat) – Обсуждения новостей канала [Запуск завтра](https://t.me/ctodaily) и разговоры на околотехнические темы
+- [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 
 # Personal
 - [andrew-r обо всем (Russian)](https://t.me/andrew_r_notes) - Разработка интерфейсов, дизайн, программирование и всё остальное.
