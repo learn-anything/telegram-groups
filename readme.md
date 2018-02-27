@@ -7,6 +7,12 @@
 - [Vim](https://t.me/VimUserGroup) - International Vi/Vim/Neovim group.
 - [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library.
 
+## Apple
+- [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Spefically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
+- [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
+- [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
+- [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
+
 ## Javascript
 - [Cycle.js](https://t.me/cycle_js) - Discussion of [cycle.js](https://github.com/cyclejs/cyclejs) project.
 - [React.js (Russian)](https://t.me/react_js) - Обсуждаем React.js и экосистему.
@@ -34,11 +40,6 @@
 ## DevOps
 - [DevOps (Russian)](https://t.me/devops_ru) - Общаемся на темы DevOps, мониторинга, метрикам и облакам.
 - [Docker (Russian)](https://t.me/docker_ru) - Обсуждаем вопросы, посвященные Docker.
-
-## Apple
-- [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
-- [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
-- [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
 
 ## News
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
