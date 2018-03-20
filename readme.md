@@ -8,7 +8,7 @@
 - [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library.
 
 ## Apple
-- [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Spefically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
+- [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Specifically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
 - [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
 - [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
@@ -54,6 +54,9 @@
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
 - [Geeks chat](https://t.me/geeksChat) - General chat about all things tech.
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community.
+
+## Related
+- [Telegram Crypto Groups Logo](http://telegramcryptogroups.com/)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
