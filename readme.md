@@ -54,6 +54,7 @@
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
 - [Geeks chat](https://t.me/geeksChat) - General chat about all things tech.
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community.
+- [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills.
 
 ## Related
 - [Telegram Crypto Groups Logo](http://telegramcryptogroups.com/)
