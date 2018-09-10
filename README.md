@@ -13,7 +13,7 @@
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
 - [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
 
-## Javascript
+## JavaScript
 - [Cycle.js](https://t.me/cycle_js) - Discussion of [cycle.js](https://github.com/cyclejs/cyclejs) project.
 - [React.js (Russian)](https://t.me/react_js) - Обсуждаем React.js и экосистему.
 - [Javascript chat (Russian)](https://t.me/javascript_ru) - Сообщество любителей самого популярного языка программирования в мире.
