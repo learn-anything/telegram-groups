@@ -64,6 +64,7 @@
 ## News
 
 # Personal
+
 - [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 - [andrew-r обо всем (Russian)](https://t.me/andrew_r_notes) - Разработка интерфейсов, дизайн, программирование и всё остальное.
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
@@ -90,5 +91,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
