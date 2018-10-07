@@ -76,8 +76,8 @@
 - [Durov](https://t.me/durov) - Posts about Telegram from [Pavel Durov](https://twitter.com/durov).
 - [Geeks chat](https://t.me/geeksChat) - General chat about all things tech.
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community.
-- [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
 - [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills.
+- [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
 
 ## Related
 
