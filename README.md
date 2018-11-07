@@ -8,33 +8,33 @@
 #### Contents
 
 - [Apple](#apple)
-- [CSS](#css)
 - [Cryptocurrencies](#cryptocurrencies)
+- [CSS](#css)
 - [Design](#design)
 - [DevOps](#devops)
 - [Functional programming](#functional-programming)
 - [JavaScript](#javascript)
 - [News](#news)
+- [Tools](#tools)
 - [Other](#other)
 - [Related](#related)
-- [Tools](#tools)
 
 ---
 
 ## Apple
 
-- [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
 - [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
 - [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Specifically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
-
-## CSS
-
-- [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS.
+- [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
 
 ## Cryptocurrencies
 
 - [Crypto](https://t.me/pietzcrypto) - Telegram Cryptocurrency Discussion.
+
+## CSS
+
+- [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS.
 
 ## Design
 
@@ -65,11 +65,17 @@
 ## News
 
 # Personal
-
-- [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 - [andrew-r обо всем (Russian)](https://t.me/andrew_r_notes) - Разработка интерфейсов, дизайн, программирование и всё остальное.
+- [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
 - [Чат канала Запуск завтра (Russian)](https://t.me/ctodailychat) – Обсуждения новостей канала [Запуск завтра](https://t.me/ctodaily) и разговоры на околотехнические темы
+
+## Tools
+
+- [Elvish](https://t.me/elvish) - Friendly and expressive shell.
+- [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library.
+- [IINA](https://t.me/joinchat/AAAAAEBemW7dU8X7IHShwQ) - Modern video player for macOS.
+- [Vim](https://t.me/VimUserGroup) - International Vi/Vim/Neovim group.
 
 ## Other
 
@@ -82,13 +88,6 @@
 ## Related
 
 - [Telegram Crypto Groups Logo](http://telegramcryptogroups.com/)
-
-## Tools
-
-- [Elvish](https://t.me/elvish) - Friendly and expressive shell.
-- [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library.
-- [IINA](https://t.me/joinchat/AAAAAEBemW7dU8X7IHShwQ) - Modern video player for macOS.
-- [Vim](https://t.me/VimUserGroup) - International Vi/Vim/Neovim group.
 
 ---
 
