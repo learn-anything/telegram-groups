@@ -69,7 +69,8 @@
 
 ## News
 
-# Personal
+## Personal
+
 - [andrew-r обо всем (Russian)](https://t.me/andrew_r_notes) - Разработка интерфейсов, дизайн, программирование и всё остальное.
 - [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
