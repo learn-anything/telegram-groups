@@ -15,7 +15,7 @@
 - [DevOps](#devops)
 - [Functional programming](#functional-programming)
 - [JavaScript](#javascript)
-- [News](#news)
+- [Personal](#personal)
 - [Tools](#tools)
 - [Other](#other)
 - [Related](#related)
@@ -66,8 +66,6 @@
 - [React Native (Russian)](https://t.me/reactnative_ru) - Общаемся на тему React Native.
 - [React.js (Russian)](https://t.me/react_js) - Обсуждаем React.js и экосистему.
 - [Родионов и Разработка (Russian)](https://t.me/rodionovrodionovrodionov1) - Делаем разработку понятной.
-
-## News
 
 ## Personal
 
