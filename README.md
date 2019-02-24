@@ -8,6 +8,7 @@
 #### Contents
 
 - [Apple](#apple)
+- [Blockchain](#blockchain)
 - [Cryptocurrencies](#cryptocurrencies)
 - [CSS](#css)
 - [Design](#design)
@@ -27,6 +28,10 @@
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
 - [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Specifically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
 - [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
+
+## Blockchain
+
+- [Blockchained India](https://t.me/blockchainedindia) - Telegram Blockchain Tech & Implementation Discussion.
 
 ## Cryptocurrencies
 
