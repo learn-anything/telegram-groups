@@ -24,9 +24,9 @@
 
 ## Apple
 
+- [macOS/iOS automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) - Channel to discuss all things macOS/iOS. Specifically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
 - [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
-- [macOS/iOS automation](https://t.me/macOSautomation) - Channel to discuss all things macOS/iOS. Specifically how to automate routine things to do more awesome things. Alfred/Karabiner/KM and the like.
 - [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
 
 ## Blockchain
