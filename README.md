@@ -88,6 +88,7 @@
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community.
 - [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills.
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers.
+- [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
 
 ## Related
 
