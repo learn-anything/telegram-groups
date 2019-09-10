@@ -8,6 +8,7 @@
 #### Contents
 
 - [Apple](#apple)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Cryptocurrencies](#cryptocurrencies)
 - [CSS](#css)
@@ -28,6 +29,10 @@
 - [iOS developers (Russian)](https://t.me/ios_ru) - Общаемся на темы, посвященным iOS-разработке, Swift, Objective-C, SDK, Rx, Cocoa и т.д.
 - [macOS (Russian)](https://t.me/macos_ru) - Обсуждаем всё, что связано с экосистемой macOS и продуктами Apple.
 - [Tools & Productivity (Russian)](https://t.me/ToolsProductivity) - Беседуем о приложениях и сервисах улучшающих личную продуктивность, об организации файлов, тегах, структуре.
+
+## Artificial Intelligence
+
+- [Deep Intelligence Talk](https://t.me/joinchat/CuFqkRQSxRy5M_6KxhKrCA) - Channel to discuss all things related to Artificial Intelligence, Machine Learning, and Deep Learning.
 
 ## Blockchain
 
