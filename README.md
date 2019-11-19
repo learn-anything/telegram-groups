@@ -14,6 +14,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Functional programming](#functional-programming)
 - [JavaScript](#javascript)
 - [Personal](#personal)
+- [Python](#python)
 - [Tools](#tools)
 - [Other](#other)
 - [Related](#related)
@@ -73,6 +74,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [PHP и не только (Russian)](https://t.me/phpio) – Канал о современном PHP и буднях разработчика и технического директора [ИД Комитет](https://cmtt.ru)
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io).
 - [Чат канала Запуск завтра (Russian)](https://t.me/ctodailychat) – Обсуждения новостей канала [Запуск завтра](https://t.me/ctodaily) и разговоры на околотехнические темы
+
+## Python
+
+- [Python Daily (Russian)](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 
 ## Tools
 
