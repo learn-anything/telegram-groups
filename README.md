@@ -48,7 +48,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## DevOps
 
-- [CatOps Chat (Ukranian & Russian)](https://t.me/catops_chat) - Обговорюємо аспекти DevOps, SRE та новини з [CatOps (English)](https://t.me/catops) 
+- [CatOps Chat (Ukrainian & Russian)](https://t.me/catops_chat) - Обговорюємо аспекти DevOps, SRE та новини з [CatOps (English)](https://t.me/catops) 
 - [DevOps (Russian)](https://t.me/devops_ru) - Общаемся на темы DevOps, мониторинга, метрикам и облакам.
 - [Docker (Russian)](https://t.me/docker_ru) - Обсуждаем вопросы, посвященные Docker.
 
