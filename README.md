@@ -36,7 +36,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Cryptocurrencies
 
-- [Crypto](https://t.me/pietzcrypto) - Telegram Cryptocurrency Discussion.
+- [Crypto](https://t.me/Crypto) - List of many crypto communities
 
 ## CSS
 
