@@ -55,7 +55,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Haskell (Russian)](https://t.me/haskellru) - Русское комьюнить о xаскеле.
 - [Haskell India Group](https://t.me/haskellindia) - India-focused group for Haskell.
-- [Зависимые типы в массы (Russian)](https://t.me/joinchat/Ai4h2D9SWO_RDx2jMUbzqw) - Dependent types, automated theorem proving, verification and related themes.
 
 ## JavaScript
 
