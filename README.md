@@ -28,7 +28,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Artificial Intelligence
 
-- [Deep Intelligence Talk](https://t.me/joinchat/CuFqkRQSxRy5M_6KxhKrCA) - Channel to discuss all things related to Artificial Intelligence, Machine Learning, and Deep Learning.
+- [Data Science Chat](https://t.me/datasciencechat) - Data Science, ML and AI Russian chat
 
 ## Blockchain
 
