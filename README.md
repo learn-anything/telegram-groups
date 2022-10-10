@@ -70,6 +70,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Frontend
 - [Frontend (Russian)](https://t.me/frontend_ru) - Russian frontend developers community
+
 ## Personal
 
 - [andrew-r обо всем (Russian)](https://t.me/andrew_r_notes) - Разработка интерфейсов, дизайн, программирование и всё остальное
@@ -79,6 +80,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Python
 
+- [Django Python chat](https://t.me/pydjango) - Django web-framework discussion
+- [International Python Chat](https://t.me/Python) - Group about the Python programming language
 - [Python Data Analysis](https://t.me/pydata_chat) - Анализ данных & Python
 - [Python Daily (Russian)](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы
 
