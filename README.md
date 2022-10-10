@@ -76,6 +76,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Python
 
+- [Python Data Analysis](https://t.me/pydata_chat) - Анализ данных & Python
 - [Python Daily (Russian)](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 
 ## Tools
