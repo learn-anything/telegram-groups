@@ -93,7 +93,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Telegram Crypto Groups Logo](http://telegramcryptogroups.com/)
+None yet
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
