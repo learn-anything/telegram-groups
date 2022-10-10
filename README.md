@@ -66,7 +66,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Node.js (Russian)](https://t.me/nodejs_ru) - Русское комьюнить о node.js.
 - [React Native (Russian)](https://t.me/reactnative_ru) - Общаемся на тему React Native.
 - [React.js (Russian)](https://t.me/react_js) - Обсуждаем React.js и экосистему.
-- [Родионов и Разработка (Russian)](https://t.me/rodionovrodionovrodionov1) - Делаем разработку понятной.
 
 ## Personal
 
