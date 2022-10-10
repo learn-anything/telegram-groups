@@ -81,7 +81,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Tools
 
 - [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library.
-- [IINA](https://t.me/joinchat/AAAAAEBemW7dU8X7IHShwQ) - Modern video player for macOS.
 - [Vim](https://t.me/VimUserGroup) - International Vi/Vim/Neovim group.
 
 ## Other
