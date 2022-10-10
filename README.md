@@ -39,7 +39,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Crypto](https://t.me/Crypto) - List of many crypto communities
 
 ## CSS
-
+- [HTML/CSS/JavaScript chat](https://t.me/web_structure) - HTML/CSS/JavaScript issues
 - [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS
 
 ## Design
