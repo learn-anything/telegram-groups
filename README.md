@@ -14,6 +14,9 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Functional programming](#functional-programming)
 - [JavaScript](#javascript)
 - [Personal](#personal)
+- [Databases & SQL](#databases-and-sql)
+- [Assembler](#assembler)
+- [Linux](#linux)
 - [Python](#python)
 - [Tools](#tools)
 - [Other](#other)
@@ -28,7 +31,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Artificial Intelligence
 
-- [Data Science Chat](https://t.me/datasciencechat) - Data Science, ML and AI Russian chat
+- [Data Science Chat (Russian)](https://t.me/datasciencechat) - Data Science, ML and AI Russian chat
 
 ## Blockchain
 
@@ -39,7 +42,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Crypto](https://t.me/Crypto) - List of many crypto communities
 
 ## CSS
-- [HTML/CSS/JavaScript chat](https://t.me/web_structure) - HTML/CSS/JavaScript issues
+- [HTML/CSS/JavaScript chat (Russian)](https://t.me/web_structure) - HTML/CSS/JavaScript issues
 - [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS
 
 ## Design
@@ -79,6 +82,23 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Запуск завтра (Russian)](https://t.me/ctodaily) - Будни технического директора [Медузы](https://meduza.io)
 - [Чат канала Запуск завтра (Russian)](https://t.me/ctodailychat) – Обсуждения новостей канала [Запуск завтра](https://t.me/ctodaily) и разговоры на околотехнические темы
 
+## Databases and SQL
+
+- [PostgreSQL](https://t.me/pg_sql) - PostgreSQL community
+- [PosrgreSQL (Russian)](https://t.me/pgsql) - Russian-speaking PostrgreSQL community
+- [DBA (Russian](https://t.me/dba_ru) - databases discussion
+
+## Assembler
+
+- [Assembler (Russian)](https://t.me/ChatAssembler) - assembler
+- [pro.asm (Russian)](https://t.me/proasm) - assembler
+
+## Linux
+
+- [GNU/Linux Help (Russian)](https://t.me/grouplinux) - Linux chat
+- [Astra Linux Chat (Russian)](https://t.me/astralinux_chat) - Astra Linux chat
+- [RU.UBUNTU (Russian)](https://t.me/ru_ubuntu) - OS Ubuntu users community
+
 ## Python
 
 - [Python Beginners Chat](https://t.me/ru_python_beginners) - Python chat for beginners
@@ -108,4 +128,3 @@ None yet
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
