@@ -114,7 +114,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Tools
 
 - [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library
-- [Vimers](https://t.me/vimers) - Vimers chat
+- [Vimers (Russian)](https://t.me/vimers) - Vimers chat
+- [Vim Users Group (International)](https://t.me/VimUsersGroup) - International Vim/NeoVim UserGroup 5July'17
 
 ## Other
 
