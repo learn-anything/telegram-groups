@@ -101,7 +101,11 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Python
 
-- [Python Beginners Chat](https://t.me/ru_python_beginners) - Python chat for beginners
+- [Python Mentor (Russian)](https://t.me/pymentor) - Python Q&A and community
+- [Python (Russian)](https://t.me/ru_python) - Python chat for professionals
+- [Python Dark (Russian](https://t.me/python_dark) - Python community
+- [Python Flask (Russian)](https://t.me/ru_flask) - Flask community
+- [Python Beginners Chat (Russian)](https://t.me/ru_python_beginners) - Python chat for beginners
 - [Django Python chat](https://t.me/pydjango) - Django web-framework discussion
 - [International Python Chat](https://t.me/Python) - Group about the Python programming language
 - [Python Data Analysis](https://t.me/pydata_chat) - Анализ данных & Python
