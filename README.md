@@ -126,6 +126,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers
 - [PHP chat (Russian)](https://t.me/php_chatik) - php community
+- [Linux Mint Official Community (Russian)](https://t.me/ru_mint) - Официальное русскоговорящее сообщество Linux Mint
 
 ## Related
 
