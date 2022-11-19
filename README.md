@@ -42,6 +42,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Crypto](https://t.me/Crypto) - List of many crypto communities
 
 ## CSS
+
 - [HTML/CSS/JavaScript chat (Russian)](https://t.me/web_structure) - HTML/CSS/JavaScript issues
 - [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS
 
@@ -124,6 +125,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community
 - [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers
+- [PHP chat (Russian)](https://t.me/php_chatik) - php community
 
 ## Related
 
