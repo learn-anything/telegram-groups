@@ -42,6 +42,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Crypto](https://t.me/Crypto) - List of many crypto communities
 
 ## CSS
+
 - [HTML/CSS/JavaScript chat (Russian)](https://t.me/web_structure) - HTML/CSS/JavaScript issues
 - [CSS (Russian)](https://t.me/css_ru) - Сообщество любителей CSS
 
@@ -98,19 +99,27 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [GNU/Linux Help (Russian)](https://t.me/grouplinux) - Linux chat
 - [Astra Linux Chat (Russian)](https://t.me/astralinux_chat) - Astra Linux chat
 - [RU.UBUNTU (Russian)](https://t.me/ru_ubuntu) - OS Ubuntu users community
+- [Arch Linux (English)](https://t.me/archlinuxgroup) - Support and discussion group for Arch Linux
 
 ## Python
 
-- [Python Beginners Chat](https://t.me/ru_python_beginners) - Python chat for beginners
+- [Python Mentor (Russian)](https://t.me/pymentor) - Python Q&A and community
+- [Python (Russian)](https://t.me/ru_python) - Python chat for professionals
+- [Python Dark (Russian](https://t.me/python_dark) - Python community
+- [Python Flask (Russian)](https://t.me/ru_flask) - Flask community
+- [Python Beginners Chat (Russian)](https://t.me/ru_python_beginners) - Python chat for beginners
 - [Django Python chat](https://t.me/pydjango) - Django web-framework discussion
 - [International Python Chat](https://t.me/Python) - Group about the Python programming language
 - [Python Data Analysis](https://t.me/pydata_chat) - Анализ данных & Python
 - [Python Daily (Russian)](https://t.me/pydaily) - Новости о языке программирования Python, ссылки на статьи, подкасты и другие интересные материалы
+- [RenPy, Naninovel & novelty (Russian)](https://t.me/renpyru) - renpy gamedev engine
 
 ## Tools
 
+- [Git (Russian)](https://t.me/git_cool) - Features, hacks & ecosystem discussion
 - [Go Telegram API](https://t.me/go_telegram_bot_api) - Discussion about the [go-telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) library
-- [Vimers](https://t.me/vimers) - Vimers chat
+- [Vimers (Russian)](https://t.me/vimers) - Vimers chat
+- [Vim Users Group (International)](https://t.me/VimUsersGroup) - International Vim/NeoVim UserGroup 5July'17
 
 ## Other
 
@@ -119,6 +128,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [NixOS](https://t.me/ru_nixos) - Russian NixOS community
 - [pmdaily (Russian)](https://t.me/pmdaily) - Team leading, project management, and programming soft-skills
 - [Telegram stickers (Russian)](https://t.me/mosticks) - Daily new Telegram stickers
+- [PHP chat (Russian)](https://t.me/php_chatik) - PHP community
+- [Linux Mint Official Community (Russian)](https://t.me/ru_mint) - Официальное русскоговорящее сообщество Linux Mint
 
 ## Related
 
